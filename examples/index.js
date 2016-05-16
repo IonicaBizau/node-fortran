@@ -2,6 +2,7 @@
 
 const fotran = require("../lib");
 
+// Let's run some Fortran stuff
 fotran(`
       program hello
           print *, "Hello World!"

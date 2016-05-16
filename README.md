@@ -7,6 +7,8 @@
 
 > Fortran bridge for Node.js which allows you to run Fortran code from Node.js.
 
+[![fortran](http://i.imgur.com/f6QlDFx.png)](#)
+
 ## :cloud: Installation
 
 ```sh
@@ -21,6 +23,7 @@ $ npm i --save fortran
 ```js
 const fotran = require("fortran");
 
+// Let's run some Fortran stuff
 fotran(`
       program hello
           print *, "Hello World!"

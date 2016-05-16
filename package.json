@@ -22,7 +22,28 @@
   "blah": {
     "h_img": "http://i.imgur.com/P2ExtzQ.png",
     "ex_img": "http://i.imgur.com/f6QlDFx.png",
-    "related": ["cobol"]
+    "related": [
+      "cobol"
+    ],
+    "installation": [
+      {
+        "h3": "Prerequisites"
+      },
+      "You have to install the Fortran compiler:",
+      {
+        "code": {
+          "language": "sh",
+          "content": [
+            "# Ubuntu",
+            "sudo apt-get install gfortran",
+            "sudo apt-get install fort77",
+            "",
+            "# OS X",
+            "brew install gcc"
+          ]
+        }
+      }
+    ]
   },
   "dependencies": {
     "noop6": "^1.0.1",
@@ -37,7 +58,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/IonicaBizau/node-fortran.git"
+    "url": "git+https://github.com/IonicaBizau/node-fortran.git"
   },
   "bugs": {
     "url": "https://github.com/IonicaBizau/node-fortran/issues"

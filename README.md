@@ -16,6 +16,17 @@ $ npm i --save fortran
 ```
 
 
+### Prerequisites
+You have to install the Fortran compiler:
+```sh
+# Ubuntu
+sudo apt-get install gfortran
+sudo apt-get install fort77
+
+# OS X
+brew install gcc
+```
+
 ## :clipboard: Example
 
 

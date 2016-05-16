@@ -9,4 +9,5 @@ fotran(`
       end program hello
 `, (err, data) => {
     console.log(err || data);
+    // => Hello World
 });

@@ -2,7 +2,6 @@
 
 const fotran = require("../lib");
 
-// Execute some COBOL snippets
 fotran(`
       program hello
           print *, "Hello World!"

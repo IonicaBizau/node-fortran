@@ -19,7 +19,6 @@ $ npm i --save fortran
 ```js
 const fotran = require("fortran");
 
-// Execute some COBOL snippets
 fotran(`
       program hello
           print *, "Hello World!"

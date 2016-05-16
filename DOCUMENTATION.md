@@ -3,7 +3,7 @@
 You can see below the API reference of this module.
 
 ### `fortran(input, callback)`
-Runs Fortran code from Node.JS side.
+Runs Fortran code from the Node.js side.
 
 #### Params
 - **String|Path** `input`: The Fortran code to execute, or a path to a Fortran file (generally having the `.f` extension).

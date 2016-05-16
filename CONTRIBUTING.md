@@ -61,6 +61,6 @@ Thanks! :sweat_smile:
 
 
 
-[1]: https://github.com/IonicaBizau/node-cobol/issues
+[1]: https://github.com/IonicaBizau/node-fortran/issues
 
 [2]: https://github.com/IonicaBizau/code-style

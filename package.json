@@ -6,7 +6,9 @@
   "directories": {
     "example": "examples"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "abs": "^1.3.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -82,7 +84,7 @@
     "one-by-one": "^3.1.2",
     "prgm-installed": "^1.0.2",
     "sliced": "^1.0.1",
-    "spawno": "^1.0.0",
+    "spawno": "^1.0.1",
     "tmp": "0.0.28",
     "ul": "^5.2.2",
     "which": "^1.2.8"

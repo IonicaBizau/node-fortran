@@ -1,6 +1,6 @@
 {
   "name": "fortran",
-  "version": "1.5.1",
+  "version": "1.0.0",
   "description": "Fortran bridge for Node.js which allows you to run Fortran code from Node.js.",
   "main": "lib/index.js",
   "directories": {

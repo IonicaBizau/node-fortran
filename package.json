@@ -23,8 +23,9 @@
     "h_img": "http://i.imgur.com/P2ExtzQ.png",
     "ex_img": "http://i.imgur.com/f6QlDFx.png",
     "related": [
+      "node.fortran",
       "cobol",
-      "node.fortran"
+      "node.cobol"
     ],
     "installation": [
       {

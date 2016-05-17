@@ -62,7 +62,7 @@ Have an idea? Found a bug? See [how to contribute][contributing].
 
 ## :sparkles: Related
 
- - [`node.fortran`](https://github.com/IonicaBizau/node.fortran#readme)—Execute Node.js from Fortran.
+ - [`node.fortran`](https://github.com/IonicaBizau/node.fortran#readme)—Execute Node.js in your Fortran programs.
  - [`cobol`](https://github.com/IonicaBizau/node-cobol)—COBOL bridge for NodeJS which allows you to run COBOL code from NodeJS.
  - [`node.cobol`](https://github.com/IonicaBizau/node.cobol#readme)—Node.js bridge for COBOL which allows you to run Node.js code from COBOL.
 

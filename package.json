@@ -1,6 +1,6 @@
 {
   "name": "fortran",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fortran bridge for Node.js which allows you to run Fortran code from Node.js.",
   "main": "lib/index.js",
   "directories": {
@@ -65,5 +65,17 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/node-fortran/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/node-fortran"
+  "homepage": "https://github.com/IonicaBizau/node-fortran",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "scripts/",
+    "cli.js",
+    "index.js"
+  ]
 }

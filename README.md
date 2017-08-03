@@ -32,10 +32,10 @@ brew install gcc
 
 
 ```js
-const fotran = require("fortran");
+const fortran = require("fortran");
 
 // Let's run some Fortran stuff
-fotran(`
+fortran(`
       program hello
           print *, "Hello World!"
       end program hello
